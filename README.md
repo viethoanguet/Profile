@@ -1,10 +1,10 @@
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | React | C++ |MERN  
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
+- 💻 &nbsp; C# | JavaScript | React | C++ |MERN  
+- 🌐 &nbsp; FrontEnd | React | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Postman
-- 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+- 🔧 &nbsp; Visual Studio code  | Git
+- 🖥 &nbsp; Photoshop | Figma
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
